@@ -19,7 +19,7 @@ jobs:
       - name: Install Capacitor & Biometric Plugins
         run: |
           mkdir -p www
-          echo "<html><body>Loading SMC...</body></html>" > www/index.html
+          curl -sL https://samilhussan66-byte.github.io/SMC-R1/index.html -o www/index.html
           npm install
           npx cap add android || true
           npx cap sync android
