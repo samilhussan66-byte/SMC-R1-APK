@@ -4,7 +4,7 @@
   "webDir": "www",
   "bundledWebRuntime": false,
   "server": {
-    "url": "https://samilhussan66-byte.github.io/SMC-R1/",
-    "cleartext": true
+    "androidScheme": "https",
+    "hostname": "samilhussan66-byte.github.io"
   }
 }
