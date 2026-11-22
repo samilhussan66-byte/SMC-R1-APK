@@ -1,0 +1,10 @@
+{
+  "appId": "com.smc.runner",
+  "appName": "SMC R1 Runner",
+  "webDir": "www",
+  "bundledWebRuntime": false,
+  "server": {
+    "url": "https://samilhussan66-byte.github.io/SMC-R1/",
+    "cleartext": true
+  }
+}
